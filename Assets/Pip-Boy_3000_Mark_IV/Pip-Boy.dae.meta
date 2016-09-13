@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 48d5c454f99304df99e90eea271a819f
+timeCreated: 1467867820
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: adjust_knob
+    100002: Armature
+    100004: beam_me_up_knob
+    100006: clasp_1
+    100008: clasp_2
+    100010: clasp_3
+    100012: eject_button
+    100014: Holotape
+    100016: holotape
+    100018: light_button
+    100020: LightButton
+    100022: mode_knob
+    100024: //RootNode
+    100026: pipboy
+    100028: pipboy_body_1
+    100030: pipboy_body_2
+    100032: PipboyIn
+    100034: PipboyIndicator1
+    100036: PipboyLabels
+    100038: PipboyPart1
+    100040: PipboyPart2
+    100042: power_button
+    100044: PowerButton
+    100046: radiation_needle
+    100048: radio_needle
+    100050: root_ground
+    100052: Screen0
+    100054: screen_custom
+    100056: screen_dust
+    100058: screen_off
+    100060: ScreenCustom
+    100062: ScreenDust
+    100064: scroll_knob
+    100066: select_button
+    100068: tape_deck_1
+    100070: tape_deck_2
+    100072: tape_deck_lid
+    100074: tune_knob
+    400000: adjust_knob
+    400002: Armature
+    400004: beam_me_up_knob
+    400006: clasp_1
+    400008: clasp_2
+    400010: clasp_3
+    400012: eject_button
+    400014: Holotape
+    400016: holotape
+    400018: light_button
+    400020: LightButton
+    400022: mode_knob
+    400024: //RootNode
+    400026: pipboy
+    400028: pipboy_body_1
+    400030: pipboy_body_2
+    400032: PipboyIn
+    400034: PipboyIndicator1
+    400036: PipboyLabels
+    400038: PipboyPart1
+    400040: PipboyPart2
+    400042: power_button
+    400044: PowerButton
+    400046: radiation_needle
+    400048: radio_needle
+    400050: root_ground
+    400052: Screen0
+    400054: screen_custom
+    400056: screen_dust
+    400058: screen_off
+    400060: ScreenCustom
+    400062: ScreenDust
+    400064: scroll_knob
+    400066: select_button
+    400068: tape_deck_1
+    400070: tape_deck_2
+    400072: tape_deck_lid
+    400074: tune_knob
+    4300000: ScreenDust
+    4300002: PipboyIn
+    4300004: PipboyLabels
+    4300006: PipboyIndicator1
+    4300008: ScreenCustom
+    4300010: PipboyPart2
+    4300012: Screen0
+    4300014: PowerButton
+    4300016: PipboyPart1
+    4300018: Holotape
+    4300020: LightButton
+    9500000: //RootNode
+    13700000: Holotape
+    13700002: LightButton
+    13700004: PipboyIn
+    13700006: PipboyIndicator1
+    13700008: PipboyLabels
+    13700010: PipboyPart1
+    13700012: PipboyPart2
+    13700014: PowerButton
+    13700016: Screen0
+    13700018: ScreenCustom
+    13700020: ScreenDust
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

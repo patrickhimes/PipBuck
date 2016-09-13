@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: b668eb0c7ee5f4451a745987a30ba1ec
+timeCreated: 1469162319
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm.L
+    100002: Arm.R
+    100004: Cheek.L
+    100006: Cheek.R
+    100008: Chest
+    100010: Ear.Lower.L
+    100012: Ear.Lower.R
+    100014: Ear.Upper.L
+    100016: Ear.Upper.R
+    100018: Eye.Lower.L
+    100020: Eye.Lower.R
+    100022: Eye.Upper.L
+    100024: Eye.Upper.R
+    100026: Foot.L
+    100028: Foot.R
+    100030: Forearm.L
+    100032: Forearm.R
+    100034: Hand.L
+    100036: Hand.R
+    100038: Head
+    100040: Hip.L
+    100042: Hip.R
+    100044: Leg.L
+    100046: Leg.R
+    100048: //RootNode
+    100050: lyra_armature
+    100052: lyra_body
+    100054: lyra_eye_ball_left
+    100056: lyra_eye_ball_right
+    100058: lyra_eye_bone_left
+    100060: lyra_eye_bone_right
+    100062: lyra_eyelashes
+    100064: lyra_hair
+    100066: lyra_horn
+    100068: lyra_mouth_down
+    100070: lyra_mouth_up
+    100072: lyra_tail
+    100074: lyra_tongue
+    100076: Muzzle.Lower
+    100078: Muzzle.Upper
+    100080: Neck
+    100082: pony_eye_bone_left
+    100084: pony_eye_bone_right
+    100086: Shoulder.L
+    100088: Shoulder.R
+    100090: Spine
+    100092: Tail
+    100094: Tongue
+    100096: Wing.Base.L
+    100098: Wing.Base.R
+    100100: Wing.Lower.L
+    100102: Wing.Lower.R
+    100104: Wing.Upper.L
+    100106: Wing.Upper.R
+    400000: Arm.L
+    400002: Arm.R
+    400004: Cheek.L
+    400006: Cheek.R
+    400008: Chest
+    400010: Ear.Lower.L
+    400012: Ear.Lower.R
+    400014: Ear.Upper.L
+    400016: Ear.Upper.R
+    400018: Eye.Lower.L
+    400020: Eye.Lower.R
+    400022: Eye.Upper.L
+    400024: Eye.Upper.R
+    400026: Foot.L
+    400028: Foot.R
+    400030: Forearm.L
+    400032: Forearm.R
+    400034: Hand.L
+    400036: Hand.R
+    400038: Head
+    400040: Hip.L
+    400042: Hip.R
+    400044: Leg.L
+    400046: Leg.R
+    400048: //RootNode
+    400050: lyra_armature
+    400052: lyra_body
+    400054: lyra_eye_ball_left
+    400056: lyra_eye_ball_right
+    400058: lyra_eye_bone_left
+    400060: lyra_eye_bone_right
+    400062: lyra_eyelashes
+    400064: lyra_hair
+    400066: lyra_horn
+    400068: lyra_mouth_down
+    400070: lyra_mouth_up
+    400072: lyra_tail
+    400074: lyra_tongue
+    400076: Muzzle.Lower
+    400078: Muzzle.Upper
+    400080: Neck
+    400082: pony_eye_bone_left
+    400084: pony_eye_bone_right
+    400086: Shoulder.L
+    400088: Shoulder.R
+    400090: Spine
+    400092: Tail
+    400094: Tongue
+    400096: Wing.Base.L
+    400098: Wing.Base.R
+    400100: Wing.Lower.L
+    400102: Wing.Lower.R
+    400104: Wing.Upper.L
+    400106: Wing.Upper.R
+    2300000: lyra_eye_ball_left
+    2300002: lyra_eye_ball_right
+    3300000: lyra_eye_ball_left
+    3300002: lyra_eye_ball_right
+    4300000: lyra_body
+    4300002: lyra_eye_ball_right
+    4300004: lyra_eye_ball_left
+    4300006: lyra_eyelashes
+    4300008: lyra_mouth_up
+    4300010: lyra_mouth_down
+    4300012: lyra_tongue
+    4300014: lyra_tail
+    4300016: lyra_hair
+    4300018: lyra_horn
+    9500000: //RootNode
+    13700000: lyra_body
+    13700002: lyra_eyelashes
+    13700004: lyra_hair
+    13700006: lyra_horn
+    13700008: lyra_mouth_down
+    13700010: lyra_mouth_up
+    13700012: lyra_tail
+    13700014: lyra_tongue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
